@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(224, 212, 236);
+  background-image: url(media/B.jpg);
+  background-size: cover;
+}
+h1{
+  color: blueviolet;
+}
+p{
+  color: blueviolet;
+}
+.beauty1{
+  width: 150px;
+}
+.beauty4{
+  width: 150px;
+}
